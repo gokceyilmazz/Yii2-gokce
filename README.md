@@ -1,2 +1,2 @@
-# yii2-gokce
+# yii2-content
 gokce module
