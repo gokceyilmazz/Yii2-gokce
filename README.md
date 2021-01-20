@@ -15,6 +15,14 @@ komutuyla yii2 advanced projesinin içine girilir
 hata verdikten sonra bu komutu deniyoruz:
 ` composer require --prefer-dist gokceyilmazz/yii2-gokce "dev-main"`
 
+daha sonra backend/config/main dosyasına gidilir ve modules kısmına verilenler yazılır:
+` 'modules' => [
+        'content' => [
+            'class' => 'gokceyilmazz/content/Module'
+        ]
+    ], `
+
+
 
 ![foto1](https://github.com/gokceyilmazz/yii2-gokce/blob/main/2021-01-20.png)
 ![foto2](https://github.com/gokceyilmazz/yii2-gokce/blob/main/2021-01-20%20(1).png)
