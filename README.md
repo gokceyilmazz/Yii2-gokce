@@ -6,11 +6,11 @@ komut isteminden lecture-webde vagranta gidilir
 
 komutuyla orgunwebe girilir
 
-cd /var/www/advanced/
+`cd /var/www/advanced/`
 
 komutuyla yii2 advanced projesinin içine girilir
 
-composer require gokceyilmazz/yii2-gokce
+`composer require gokceyilmazz/yii2-gokce`
 
 
 
