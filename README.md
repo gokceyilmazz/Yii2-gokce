@@ -10,4 +10,8 @@ cd /var/www/advanced/
 
 komutuyla yii2 advanced projesinin içine girilir
 
+composer require gokceyilmazz/yii2-gokce
+
+
+
 
