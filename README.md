@@ -10,7 +10,7 @@ komutuyla orgunwebe girilir
 
 komutuyla yii2 advanced projesinin içine girilir
 
-`composer require gokceyilmazz/yii2-gokce`
+` composer require --prefer-dist gokceyilmazz/yii2-gokce "*"`
 
 
 ![foto1](https://github.com/gokceyilmazz/yii2-gokce/blob/main/2021-01-20.png)
