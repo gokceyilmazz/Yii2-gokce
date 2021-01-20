@@ -2,7 +2,7 @@
 
 komut isteminden lecture-webde vagranta gidilir
 
-ssh -i .vagrant/machines/orgunweb/virtualbox/private_key vagrant@orgunweb
+`ssh -i .vagrant/machines/orgunweb/virtualbox/private_key vagrant@orgunweb`
 
 komutuyla orgunwebe girilir
 
