@@ -11,6 +11,8 @@ komutuyla orgunwebe girilir
 komutuyla yii2 advanced projesinin içine girilir
 
 ` composer require --prefer-dist gokceyilmazz/yii2-gokce "*"`
+
+hata verdikten sonra bu komutu deniyoruz:
 ` composer require --prefer-dist gokceyilmazz/yii2-gokce "dev-main"`
 
 
