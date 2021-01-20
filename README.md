@@ -14,4 +14,9 @@ komutuyla yii2 advanced projesinin içine girilir
 
 
 ![foto1](https://github.com/gokceyilmazz/yii2-gokce/blob/main/2021-01-20.png)
+![foto2](https://github.com/gokceyilmazz/yii2-gokce/blob/main/2021-01-20%20(1).png)
+![foto3](https://github.com/gokceyilmazz/yii2-gokce/blob/main/2021-01-20%20(2).png)
+![foto4](https://github.com/gokceyilmazz/yii2-gokce/blob/main/2021-01-20%20(3).png)
+![foto5](https://github.com/gokceyilmazz/yii2-gokce/blob/main/2021-01-20%20(4).png)
+![foto6](https://github.com/gokceyilmazz/yii2-gokce/blob/main/2021-01-20%20(5).png)
 
