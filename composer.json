@@ -1,0 +1,36 @@
+{
+  "name": "gokceyilmazz/yii2-gokce",
+  "description": "Yii2 Module",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "gokceyilmazz",
+      "email": "190201073@kocaeli.edu.tr",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0.13"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "8.*.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "gokceyilmazz\\content\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "gokceyilmazz\\content\\tests\\": "tests"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
