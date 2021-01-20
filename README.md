@@ -22,6 +22,8 @@ daha sonra backend/config/main dosyasına gidilir ve modules kısmına verilenle
         ]
     ], `
 
+migrate işlemi için:
+`php yii migrate/up --migrationPath=@vendor/gokceyilmazz/content/migrations `
 
 
 ![foto1](https://github.com/gokceyilmazz/yii2-gokce/blob/main/2021-01-20.png)
